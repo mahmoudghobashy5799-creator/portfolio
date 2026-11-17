@@ -52,4 +52,3 @@ Replace the example URL with the real destination. Future updates are edits foll
 The owner confirmed the identity, title, education, skill list, contacts, and that the Movie Recommendation System is a completed individual course project. See `CONTENT_REVIEW.md` for copy and public-content review. The case study is grounded in local scripts and saved outputs; the owner approved the rendered portfolio for public publishing.
 
 MovieLens is a GroupLens dataset. Only selected visualizations are included, with attribution; no raw data, model artifacts, PBIX files, source project scripts, or original PDFs are redistributed.
-

@@ -1,0 +1,12 @@
+.review/
+dist/
+__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+*.pbix
+*.csv
+*.zip
+*.npy
+*.npz
